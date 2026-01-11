@@ -1,4 +1,4 @@
-package TP_Strings_Arrays;
+package tp_strings_arrays;
 
 import java.util.Scanner;
 

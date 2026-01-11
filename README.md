@@ -15,9 +15,14 @@
 
 The project is divided into several packages, each focusing on a core aspect of Java development:
 
-### 1. [TP Strings & Arrays](./src/TP_Strings_Arrays/)
+### 1. [TP Strings & Arrays](./src/tp_strings_arrays/README.md)
 This package contains solutions for the **"Strings and Arrays in Java"** exercise series.
 - **Key Concepts:** Array manipulation, `String` vs `StringBuilder`, and basic algorithms.
 - **Exercises included:** Grade management, verb conjugation, interactive string operations, and frequency analysis.
 
 ---
+
+### 2. [TP Collections & Streams & Generics](./src/tp_collections_streams_generics/README.md)
+This package covers the implementation of the Java Collections Framework and Generics to build reusable and type-safe applications.
+- **Key Concepts:** Java Collections Framework, Generics, and Lambda Expressions.
+- **Exercises included:** Product Management App, Grade Tracker, and Generic Repository.
