@@ -26,3 +26,10 @@ This package contains solutions for the **"Strings and Arrays in Java"** exercis
 This package covers the implementation of the Java Collections Framework and Generics to build reusable and type-safe applications.
 - **Key Concepts:** Java Collections Framework, Generics, and Lambda Expressions.
 - **Exercises included:** Product Management App, Grade Tracker, and Generic Repository.
+
+---
+
+### 3. [Input/Output & Exception Handling](./src/io_and_handling_exceptions/README.md)
+This package focuses on file system operations, object serialization/deserialization, and exception handling in Java.
+- **Key Concepts:** File I/O operations, object serialization, exception handling, and resource management.
+- **Exercises included:** Directory listing simulator (`ls` command) and product management with persistent storage.
