@@ -33,3 +33,13 @@ This package covers the implementation of the Java Collections Framework and Gen
 This package focuses on file system operations, object serialization/deserialization, and exception handling in Java.
 - **Key Concepts:** File I/O operations, object serialization, exception handling, and resource management.
 - **Exercises included:** Directory listing simulator (`ls` command) and product management with persistent storage.
+
+---
+
+### 4. [Multithreading & Sockets Programming](./src/tp_multithreading_sockets/README.md)
+This package covers concurrent programming with threads and network programming using TCP and UDP sockets.
+- **Key Concepts:** Thread synchronization, race conditions, TCP/UDP sockets, client-server architecture, and multi-threaded servers.
+- **Exercises included:** 
+  - **Multithreading:** Bank account withdrawal (race conditions), seat booking system (shared resources)
+  - **Sockets:** Magic number guessing game (single-threaded and multi-threaded versions with leaderboard)
+  - **UDP:** Peer-to-peer chat application
